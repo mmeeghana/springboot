@@ -1,2 +1,2 @@
-alert("warninggg");
+//alert("warninggg");
 console.log("meg");
